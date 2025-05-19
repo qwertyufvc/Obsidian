@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-05-19.md",
+                "file": "landing-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-19"
+              "title": "landing-page"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025-05-19.md",
+                "file": "landing-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-19へのバックリンク"
+              "title": "landing-pageへのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2025-05-19.md",
+                "file": "landing-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-05-19からのアウトゴーイングリンク"
+              "title": "landing-pageからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-05-19.md",
+                "file": "landing-page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-19のアウトライン"
+              "title": "landing-pageのアウトライン"
             }
           },
           {
@@ -194,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702ccfe2195cfb74",
+  "active": "0ca738a3d9c2558d",
   "lastOpenFiles": [
+    "IBM.md",
+    "landing-page.md",
+    "daily/2025-05-19.md",
     "無題のファイル 1.md",
     "無題のフォルダ/無題のフォルダ",
     "daily",
-    "daily/2025-05-19.md",
-    "無題のファイル.md",
-    "IBM.md"
+    "無題のファイル.md"
   ]
 }
