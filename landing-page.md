@@ -1,4 +1,4 @@
-# 🎨 プロジェクトランディングページ
+# 🎨 共通目標・タスク
 
 <div style="background: linear-gradient(120deg, #f6d365 0%, #fda085 100%); padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 ## 📋 プロジェクト概要
@@ -16,7 +16,7 @@
 
 - [ ] 目標4
 </div>
-
+- [ ] 
 <div style="background: #faf7f5; padding: 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 ## 📝 タスク管理
 

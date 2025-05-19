@@ -89,7 +89,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ca738a3d9c2558d",
+  "active": "dadc05d55118b6b9",
   "lastOpenFiles": [
     "IBM.md",
     "landing-page.md",
