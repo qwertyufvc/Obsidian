@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBM.md",
+                "file": "landing-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IBM"
+              "title": "landing-page"
             }
           }
         ]
@@ -143,8 +143,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "アクティブでなくなったプラグイン"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -163,8 +163,8 @@
   },
   "active": "041577cf10aec049",
   "lastOpenFiles": [
-    "landing-page.md",
     "IBM.md",
+    "landing-page.md",
     "daily/2025-05-19.md",
     "daily"
   ]
