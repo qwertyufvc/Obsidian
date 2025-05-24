@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "仕事/仕事の持ち物リスト.md",
+                "file": "landing-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "仕事の持ち物リスト"
+              "title": "landing-page"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "仕事/仕事の持ち物リスト.md",
+                "file": "landing-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "仕事の持ち物リストへのバックリンク"
+              "title": "landing-pageへのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "仕事/仕事の持ち物リスト.md",
+                "file": "landing-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "仕事の持ち物リストからのアウトゴーイングリンク"
+              "title": "landing-pageからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "仕事/仕事の持ち物リスト.md",
+                "file": "landing-page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "仕事の持ち物リストのアウトライン"
+              "title": "landing-pageのアウトライン"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "06810e8f181869f5",
   "lastOpenFiles": [
-    "landing-page.md",
     "仕事/仕事の持ち物リスト.md",
+    "landing-page.md",
     "汎用",
     "スキー",
     "仕事",
