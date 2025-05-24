@@ -23,7 +23,7 @@
 
 ### 今週のタスク
 
-- [ ] application.contextの
+- [ ] application.contextの記述を実際に確認（起動時に
 
 - [ ] タスク2
 
