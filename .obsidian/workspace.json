@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技術/Docker.md",
+                "file": "daily/2025-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "2025-05-26"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技術/Docker.md",
+                "file": "daily/2025-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dockerへのバックリンク"
+              "title": "2025-05-26へのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技術/Docker.md",
+                "file": "daily/2025-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Dockerからのアウトゴーイングリンク"
+              "title": "2025-05-26からのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技術/Docker.md",
+                "file": "daily/2025-05-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dockerのアウトライン"
+              "title": "2025-05-26のアウトライン"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "06810e8f181869f5",
   "lastOpenFiles": [
-    "2025-05-25.md",
     "技術/Docker.md",
+    "daily/2025-05-26.md",
+    "daily/2025-05-25.md",
     "技術",
     "landing-page.md",
     "仕事/仕事の持ち物リスト.md",
