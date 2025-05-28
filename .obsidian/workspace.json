@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-05-26.md",
+                "file": "landing-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "landing-page"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2025-05-26.md",
+                "file": "landing-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-26へのバックリンク"
+              "title": "landing-pageへのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2025-05-26.md",
+                "file": "landing-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-05-26からのアウトゴーイングリンク"
+              "title": "landing-pageからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-05-26.md",
+                "file": "landing-page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-26のアウトライン"
+              "title": "landing-pageのアウトライン"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "06810e8f181869f5",
   "lastOpenFiles": [
-    "技術/Docker.md",
     "daily/2025-05-26.md",
+    "技術/Docker.md",
     "daily/2025-05-25.md",
     "技術",
     "landing-page.md",
