@@ -52,13 +52,16 @@ git merge A-filtered/main --allow-unrelated-histories
 ---
 
 ## 🧪補足：動作確認後、Bリポジトリをpush
-
-bash
-
-コピーする編集する
-
 `git push origin main`
 
+---
+
+## ✍️ 後で書き足す注意点
+
+- 異なる改行コードでコミットされていたりするのでgithub上で全体差分で表示されているケースあり。全体差分になってるものは仕方ないのでwinmergeなどで差分とって何が追加されたかを確認してからマージする
+- 差分的なものなら取り込めばテストも動くと思うが、ファイル追加だとライブラリをjakartaに直したりなど必要なのでテストケースが動かないorビルド通らないことがあると思う
+- AppConfig.javaは設定を移動しているので森さんに確認？→エクセルにも記載
+- 
 ---
 
 # ✅ 実際の移行内容まとめ
@@ -110,7 +113,10 @@ git log appservice-filtered/master --oneline
 # `-m 1` → 親1（マージ先ブランチ側）を基準に cherry-pick
 git cherry-pick -m 1 commitID
 
-git push
+# （連続するコミットをまとめて指定する場合）
+git cherry-pick <最初のコミットID>^..<最後のコミットID>
+
+git push --set-upstream origin master_merge
 ```
 
 　上記を各コンテキスト分繰り返してmaster_mergeブランチに変更を取り込みプッシュ。

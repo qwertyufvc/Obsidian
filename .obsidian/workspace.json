@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "landing-page.md",
+                "file": "定例会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "landing-page"
+              "title": "定例会"
             }
           },
           {
@@ -208,6 +208,8 @@
     "daily/2025-05-22.md",
     "daily/無題のファイル.md",
     "daily/2025-05-21.md",
+    "landing-page.md",
+    "IBM.md",
     "daily/2025-05-19.md",
     "IBM.md",
     "無題のファイル 1.md",
