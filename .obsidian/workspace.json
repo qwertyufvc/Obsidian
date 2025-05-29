@@ -10,6 +10,7 @@
           {
             "id": "3d4987bf0844a6dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "landing-page"
             }
@@ -36,8 +38,19 @@
               "icon": "lucide-file",
               "title": "やることリスト"
             }
+          },
+          {
+            "id": "a0e543298c9fb9ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d4987bf0844a6dc",
+  "active": "06810e8f181869f5",
   "lastOpenFiles": [
+    "landing-page.md",
     "定例会.md",
     "やることリスト.md",
-    "landing-page.md",
     "daily/2025-05-28.md",
     "daily/2025-05-26.md",
     "開発/filter_repo手順.md",
