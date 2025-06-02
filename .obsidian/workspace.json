@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定例会.md",
+                "file": "やることリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定例会"
+              "title": "やることリスト"
             }
           }
         ],
@@ -224,9 +224,9 @@
   },
   "active": "fc5bc1d23e21d57d",
   "lastOpenFiles": [
+    "定例会.md",
     "やることリスト.md",
     "landing-page.md",
-    "定例会.md",
     "daily/2025-05-28.md",
     "daily/2025-05-26.md",
     "開発/filter_repo手順.md",
