@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/tips/SRE.md",
+                "file": "開発/tips/word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRE"
+              "title": "word"
             }
           }
         ],
@@ -253,7 +253,7 @@
   "active": "cbf34db57a621092",
   "lastOpenFiles": [
     "daily/2025-06-06.md",
-    "開発/tips/SRE.md",
+    "開発/tips/word.md",
     "開発/tips",
     "やることリスト.md",
     "daily/2025-06-04.md",
