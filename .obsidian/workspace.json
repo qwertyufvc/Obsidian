@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/Spring.md",
+                "file": "定例会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "定例会"
             }
           }
         ],
@@ -280,9 +280,9 @@
   },
   "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
+    "開発/Spring.md",
     "IBM.md",
     "やることリスト.md",
-    "開発/Spring.md",
     "開発/開発メモ.md",
     "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "開発/鍵管理.md",
