@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/更改リポジトリ(master)→更改リポジトリ(develop).md",
+                "file": "やることリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "更改リポジトリ(master)→更改リポジトリ(develop)"
+              "title": "やることリスト"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/現行リポジトリのマージ検討.md",
+                "file": "開発/現行コネクトとのソース同期/現行リポジトリのマージ検討.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/更改リポジトリ(master)→更改リポジトリ(develop).md",
+                "file": "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "更改リポジトリ(master)→更改リポジトリ(develop)"
+              "title": "リポジトリマージ検討事前準備系"
             }
           }
         ],
@@ -278,10 +278,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8d9ae7124fcc51",
+  "active": "702ccfe2195cfb74",
   "lastOpenFiles": [
-    "開発/現行コネクトとのソース同期_wiki.md",
-    "開発/現行リポジトリのマージ検討.md",
+    "開発/開発メモ.md",
+    "開発/鍵管理.md",
+    "開発/現行コネクトとのソース同期/現行コネクトとのソース同期_wiki.md",
+    "開発/現行コネクトとのソース同期/現行リポジトリのマージ検討.md",
     "開発/更改リポジトリ(master)→更改リポジトリ(develop).md",
     "やることリスト.md",
     "開発/現行コネクトとのソース同期",
@@ -295,9 +297,9 @@
     "定例会.md",
     "daily/2025-05-28.md",
     "daily/2025-05-26.md",
-    "開発/filter_repo手順.md",
+    "開発/現行コネクトとのソース同期/filter_repo手順.md",
     "開発/git command.md",
-    "開発/リポジトリマージ検討事前準備系.md",
+    "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "技術/Docker.md",
     "IBM.md",
     "NKシミュレータの説明・デモ（仮）.md",
@@ -310,8 +312,6 @@
     "仕事",
     "daily/2025-05-22.md",
     "daily/無題のファイル.md",
-    "daily/2025-05-21.md",
-    "daily/2025-05-19.md",
     "無題のフォルダ/無題のフォルダ",
     "daily"
   ]
