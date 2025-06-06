@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
+                "file": "開発/Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "リポジトリマージ検討事前準備系"
+              "title": "Spring"
             }
           }
         ],
@@ -278,9 +278,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702ccfe2195cfb74",
+  "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
     "開発/開発メモ.md",
+    "開発/Spring.md",
+    "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "開発/鍵管理.md",
     "開発/現行コネクトとのソース同期/現行コネクトとのソース同期_wiki.md",
     "開発/現行コネクトとのソース同期/現行リポジトリのマージ検討.md",
@@ -299,7 +301,6 @@
     "daily/2025-05-26.md",
     "開発/現行コネクトとのソース同期/filter_repo手順.md",
     "開発/git command.md",
-    "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "技術/Docker.md",
     "IBM.md",
     "NKシミュレータの説明・デモ（仮）.md",
@@ -311,7 +312,6 @@
     "スキー",
     "仕事",
     "daily/2025-05-22.md",
-    "daily/無題のファイル.md",
     "無題のフォルダ/無題のフォルダ",
     "daily"
   ]
