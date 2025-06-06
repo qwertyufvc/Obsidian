@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "landing-page.md",
+                "file": "やることリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "landing-page"
+              "title": "やることリスト"
             }
           }
         ],
@@ -280,10 +280,11 @@
   },
   "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
+    "landing-page.md",
+    "やることリスト.md",
     "定例会.md",
     "開発/Spring.md",
     "IBM.md",
-    "やることリスト.md",
     "開発/開発メモ.md",
     "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "開発/鍵管理.md",
@@ -296,7 +297,6 @@
     "開発/tips",
     "daily/2025-06-04.md",
     "daily/2025-06-02.md",
-    "landing-page.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-05-28.md",
     "daily/2025-05-26.md",
