@@ -1,3 +1,8 @@
+
+### Spring Bootとは何か？
+
+**Spring Boot** は Spring Framework を簡単に使えるように作られたフレームワークで、「Spring ベースのアプリケーションを迅速に開発する」ことを目的としています。
+
 **`spring-boot-dependencies`** と **`spring-boot-gradle-plugin`** のバージョンを統一するのがベストプラクティスです。そして、他のSpring Bootに関連する依存関係（`spring-boot-starter` や `spring-boot-starter-web` など）も、**同じバージョン**に統一するのが望ましい
 
 
