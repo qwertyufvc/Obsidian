@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定例会.md",
+                "file": "landing-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定例会"
+              "title": "landing-page"
             }
           }
         ],
@@ -280,6 +280,7 @@
   },
   "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
+    "定例会.md",
     "開発/Spring.md",
     "IBM.md",
     "やることリスト.md",
@@ -297,7 +298,6 @@
     "daily/2025-06-02.md",
     "landing-page.md",
     "conflict-files-obsidian-git.md",
-    "定例会.md",
     "daily/2025-05-28.md",
     "daily/2025-05-26.md",
     "開発/現行コネクトとのソース同期/filter_repo手順.md",
