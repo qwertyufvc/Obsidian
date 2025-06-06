@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/Spring.md",
+                "file": "やることリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "やることリスト"
             }
           }
         ],
@@ -280,8 +280,8 @@
   },
   "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
-    "開発/開発メモ.md",
     "開発/Spring.md",
+    "開発/開発メモ.md",
     "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
     "開発/鍵管理.md",
     "開発/現行コネクトとのソース同期/現行コネクトとのソース同期_wiki.md",
