@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "やることリスト.md",
+                "file": "IBM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "やることリスト"
+              "title": "IBM"
             }
           }
         ],
@@ -280,6 +280,7 @@
   },
   "active": "dc8d9ae7124fcc51",
   "lastOpenFiles": [
+    "やることリスト.md",
     "開発/Spring.md",
     "開発/開発メモ.md",
     "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
@@ -287,7 +288,6 @@
     "開発/現行コネクトとのソース同期/現行コネクトとのソース同期_wiki.md",
     "開発/現行コネクトとのソース同期/現行リポジトリのマージ検討.md",
     "開発/更改リポジトリ(master)→更改リポジトリ(develop).md",
-    "やることリスト.md",
     "開発/現行コネクトとのソース同期",
     "開発/tips/word.md",
     "daily/2025-06-06.md",
