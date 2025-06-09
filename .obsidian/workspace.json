@@ -40,73 +40,7 @@
             }
           },
           {
-            "id": "a0e543298c9fb9ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          },
-          {
-            "id": "fc5bc1d23e21d57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "やることリスト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "やることリスト"
-            }
-          },
-          {
-            "id": "828a0a1a0c74e406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-06-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-04"
-            }
-          },
-          {
-            "id": "cbf34db57a621092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "やることリスト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "やることリスト"
-            }
-          },
-          {
-            "id": "df62ca40422fd030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "開発/現行コネクトとのソース同期/現行リポジトリのマージ検討.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "現行リポジトリのマージ検討"
-            }
-          },
-          {
-            "id": "dc8d9ae7124fcc51",
+            "id": "5df1f24795007e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,10 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8d9ae7124fcc51",
+  "active": "702ccfe2195cfb74",
   "lastOpenFiles": [
-    "技術/gradle.md",
     "やることリスト.md",
+    "開発/Spring.md",
+    "技術/gradle.md",
     "conflict-files-obsidian-git.md",
     "daily/2025_05/2025-05-28.md",
     "daily/2025_05/2025-05-26.md",
@@ -295,7 +230,6 @@
     "daily/2025-06-05.md",
     "定例会.md",
     "landing-page.md",
-    "開発/Spring.md",
     "IBM.md",
     "開発/開発メモ.md",
     "開発/現行コネクトとのソース同期/リポジトリマージ検討事前準備系.md",
