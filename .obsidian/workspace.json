@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-06-15.md",
+                "file": "daily/2025-06-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-15"
+              "title": "2025-06-19"
             }
           }
         ],
@@ -198,10 +198,11 @@
   },
   "active": "cde471fe08204c10",
   "lastOpenFiles": [
+    "daily/2025-06-15.md",
+    "daily/2025-06-19.md",
     "退職/社会保険等説明.md",
     "conflict-files-obsidian-git.md",
     "退職",
-    "daily/2025-06-15.md",
     "daily/2025-06-11.md",
     "開発/tips/CSS.md",
     "技術/gradle.md",
